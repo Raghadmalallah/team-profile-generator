@@ -4,6 +4,7 @@
 ![badge](https://img.shields.io/badge/license-Unlicense-brightgreen)<br />
 ## Description
  my task was to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
+ https://raghadmalallah.github.io/team-profile-generator/
 ## Table of Contents
 - [Description](#description)
 - [License](#license)
