@@ -6,13 +6,9 @@
  my task was to build a Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person.
 ## Table of Contents
 - [Description](#description)
-- [Installation](#installation)
 - [License](#license)
 - [Contributing](#contributing)
-## Installation
- 
-## Usage
- undefined
+
 ## License
 ![badge](https://img.shields.io/badge/license-Unlicense-brightgreen)
 <br />
@@ -24,3 +20,6 @@ Find me on GitHub: [raghadmalallah](https://github.com/raghadmalallah)<br />
 <br />
  Email me with any questions: raghadmalallah@gmail.com<br /><br />
     
+
+https://user-images.githubusercontent.com/88641373/138033485-2d27364f-279d-4121-8e0a-2b195c03801e.mp4
+
